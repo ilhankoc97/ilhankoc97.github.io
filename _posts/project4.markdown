@@ -1,1 +1,11 @@
-
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: 1.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Merhabalar, nasılsınız?
+---
