@@ -32,31 +32,30 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
   location: Location
-  social: Around the Web
+  social: Socials
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com
   - title: facebook
-    url:
+    url: https://www.facebook.com
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 06800 Çankaya
+  - line: Bilkent Üniversitesi
 
 # Credits content
-credits: 'anne naber <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Follow us for more <a href="http://google.com">Google</a>.'
 
 # Build settings
 markdown: kramdown
