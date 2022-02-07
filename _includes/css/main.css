@@ -482,12 +482,3 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
-
-p:not(.cssonly) a[href$=".pdf"]:before {
-        /* PDF file */
-  width:32px;
-  height:32px;
- background:url('http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png');
-  display:inline-block;
-  content:' ';
-}
