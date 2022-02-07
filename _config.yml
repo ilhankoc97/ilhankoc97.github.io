@@ -55,7 +55,7 @@ address:
   - line: Bilkent Üniversitesi
 
 # Credits content
-credits: 'Follow us for more <a href="http://google.com">Google</a>.'
+credits: 'Follow us for more <a href="http://google.com">here</a>.'
 
 # Build settings
 markdown: kramdown
