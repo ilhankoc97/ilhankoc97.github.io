@@ -52,7 +52,7 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: 06800 Çankaya
-  - line: Bilkent Üniversitesi
+  - line: Bilkent University
 
 # Credits content
 credits: 'Follow us for more <a href="http://google.com">here</a>.'
