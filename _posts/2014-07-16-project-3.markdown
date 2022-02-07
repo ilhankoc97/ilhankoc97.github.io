@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 3
-date: 2031-31-31
+date: 2014-07-16
 img: 3.jpg
 alt: image-alt
 project-date: April 31
 client: Client31
 category: Web Development
-description: 31 zamanı 
+description: 31 zamani. 
 ---
