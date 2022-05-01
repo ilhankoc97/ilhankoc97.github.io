@@ -5,7 +5,7 @@ date: 2014-07-17
 img: 2.jpg
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: fdsfsdfsdfsfs
+client: 21601521
+/* category: Web Development */
+description: Yiğitin Bölümü
 ---
