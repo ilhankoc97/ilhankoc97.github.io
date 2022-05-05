@@ -7,5 +7,5 @@ alt: image-alt
 project-date: 02 May 1997
 client: 21603429
 /* category: Web Development */
-description: I was born on May 2, 1997 in Ankara. I completed my primary and high school education at Ted Ankara College. In 2016, I settled in Bilkent University Computer Department. This year is my last year at university and I will graduate in May of 2022.
+description: https://github.com/ilhankoc97
 ---
