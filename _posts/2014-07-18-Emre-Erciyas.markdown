@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: 21600991
 /* category: Web Development */
-description: Emrenin Bölümü
+description: https://github.com/ErciyasEmre
 ---
