@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: 21601521
 /* category: Web Development */
-description: Yiğitin Bölümü
+description: https://github.com/yigiterkall
 ---
