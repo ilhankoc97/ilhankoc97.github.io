@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: 21703746
 /* category: Web Development */
-description: Utkunun Bölümü
+description: https://github.com/utkugokcen13
 ---
